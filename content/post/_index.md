@@ -1,14 +1,19 @@
 ---
-title: Posts
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
+draft: false
 view: 2
-
-# Optional header image (relative to `static/media/` folder).
+title: Posts
+date: 2020-09-23T12:10:54.236Z
+summary: Summary
 header:
   caption: ""
   image: ""
+featured: true
+tags:
+  - tags
+categories:
+  - Category
+image:
+  filename: amazon.png
+  preview_only: true
 ---
+Body
