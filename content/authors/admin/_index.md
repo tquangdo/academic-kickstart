@@ -18,7 +18,7 @@ social:
     link: "#contact"
   - icon: twitter
     icon_pack: fab
-    link: "#"
+    link: "[]"
   - icon: github
     icon_pack: fab
     link: https://github.com/tquangdo
