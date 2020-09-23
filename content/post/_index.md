@@ -14,6 +14,6 @@ categories:
   - Category
 image:
   filename: amazon.png
-  preview_only: true
+  preview_only: false
 ---
 Body
