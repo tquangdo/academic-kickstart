@@ -1,12 +1,13 @@
 ---
+title: Tran Quang Do
+role: PM
+avatar_filename: avatar.jpg
 organizations:
   - name: 日本IT株式会社
     url: ""
 superuser: true
 authors:
   - admin
-title: Tran Quang Do
-role: PM
 bio: XXX.
 interests:
   - ReactJS & ReactNative
@@ -18,7 +19,7 @@ social:
     link: "#contact"
   - icon: twitter
     icon_pack: fab
-    link: "[]"
+    link: " "
   - icon: github
     icon_pack: fab
     link: https://github.com/tquangdo
