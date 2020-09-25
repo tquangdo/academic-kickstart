@@ -1,4 +1,6 @@
-<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
+![demo](demo.png)
+<!-- <p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p> -->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ef639393-d006-43ed-8737-1d13edad62ca/deploy-status)](https://app.netlify.com/sites/dotq-blog-by-academic/deploys)
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
 
